@@ -1,0 +1,6 @@
+{
+  "name": "Nana Advocacy and Empowerment Foundation (NAEF)",
+  "description": "Advancing social justice, gender equality, inclusive governance, education, and environmental sustainability across communities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
