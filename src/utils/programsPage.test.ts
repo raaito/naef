@@ -25,7 +25,7 @@ test('PILLARS_DEEP_DIVE contains all 5 official NAEF pillars with complete data'
     assert.ok(p.strategicFocus.length >= 4);
     assert.ok(p.interventions.length >= 3);
     assert.ok(p.keyOutcomes.length >= 3);
-    assert.ok(p.image.startsWith('/src/assets/images/'));
+    assert.ok(p.image.startsWith('/assets/images/'));
     assert.ok(p.quote.quoteText.length > 20);
     assert.ok(p.quote.speaker.length > 2);
   });

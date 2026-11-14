@@ -22,7 +22,7 @@ export const FEATURED_PROJECTS: FeaturedProject[] = [
     program: 'Peace Naija Initiative',
     programNumber: 1,
     location: 'Kaduna State, Nigeria',
-    image: '/src/assets/images/naef_project_peacehub_1794321505991.jpg',
+    image: '/assets/images/naef_project_peacehub_1794321505991.jpg',
     imageAlt: 'Community members and elders gathered at the Jos peace and mediation center',
     shortDescription:
       'A community-managed conflict resolution sanctuary providing neutral dialogue space, early-warning mediation, and reconciliation circles for inter-communal harmony.',
@@ -44,7 +44,7 @@ export const FEATURED_PROJECTS: FeaturedProject[] = [
     program: "Women & Girls' Empowerment Center",
     programNumber: 2,
     location: 'Enugu State, Nigeria',
-    image: '/src/assets/images/naef_women_center_1794320112976.jpg',
+    image: '/assets/images/naef_women_center_1794320112976.jpg',
     imageAlt: 'Young women working through leadership curriculum and enterprise planning',
     shortDescription:
       'An intensive 6-month mentorship and business skills incubator equipping young women with financial autonomy, leadership voice, and cooperative seed funding.',
@@ -66,7 +66,7 @@ export const FEATURED_PROJECTS: FeaturedProject[] = [
     program: 'Climate & Environmental Action Platform',
     programNumber: 5,
     location: 'Benue State, Nigeria',
-    image: '/src/assets/images/naef_climate_action_1794320114656.jpg',
+    image: '/assets/images/naef_climate_action_1794320114656.jpg',
     imageAlt: 'Volunteers planting indigenous saplings on fertile hillside soil',
     shortDescription:
       'A community-driven tree planting and soil conservation project restoring deforested riverbanks and introducing drought-tolerant agroforestry to smallholder farmers.',

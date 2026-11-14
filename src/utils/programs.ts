@@ -25,7 +25,7 @@ export const PROGRAM_DETAILS: ProgramPillarDetail[] = [
     tagline: 'Promoting peaceful coexistence, conflict prevention, and community stability',
     description:
       'Operating through the Peace Naija Center, this initiative engages youth, traditional leaders, women groups, and vulnerable communities in conflict resolution, secondary school peace clubs, youth against violence campaigns, and inter-community reconciliation.',
-    image: '/src/assets/images/naef_peace_naija_1794320113056.jpg',
+    image: '/assets/images/naef_peace_naija_1794320113056.jpg',
     imageAlt: 'Grassroots community peace dialogue and mediation circle in Nigeria',
     objectives: [
       'Facilitate conflict resolution, mediation, and inter-community reconciliation forums.',
@@ -47,7 +47,7 @@ export const PROGRAM_DETAILS: ProgramPillarDetail[] = [
     tagline: 'Advancing protection, empowerment, education, health, and rights of women and girls',
     description:
       "The Women and Girls' Empowerment Center operates Safe Space Centers, 'End Early Marriage' and anti-FGM advocacy, menstrual hygiene dignity pad distribution, reproductive health outreach, GBV referral support, and small business training—including for IDPs and vulnerable households.",
-    image: '/src/assets/images/naef_women_center_1794320112976.jpg',
+    image: '/assets/images/naef_women_center_1794320112976.jpg',
     imageAlt: 'Young Nigerian women engaged in leadership pathways workshop',
     objectives: [
       'Campaign against Female Genital Mutilation (FGM), early child marriage, and harmful practices alongside community and religious leaders.',
@@ -69,7 +69,7 @@ export const PROGRAM_DETAILS: ProgramPillarDetail[] = [
     tagline: 'Strengthening democratic participation, accountability, and civic responsibility',
     description:
       'The Civic Engagement Platform mobilizes youth, women, and community stakeholders through civic education workshops, voter and election awareness drives, youth political participation and leadership training, and community accountability forums.',
-    image: '/src/assets/images/naef_discover_community_1794319715730.jpg',
+    image: '/assets/images/naef_discover_community_1794319715730.jpg',
     imageAlt: 'Community members holding notebooks and participating in civic accountability meeting',
     objectives: [
       'Conduct grassroots civic education workshops and non-partisan election & voter awareness drives.',
@@ -91,7 +91,7 @@ export const PROGRAM_DETAILS: ProgramPillarDetail[] = [
     tagline: 'Improving access to quality education, teacher capacity, and learning outcomes',
     description:
       'Combining student support (scholarships, learning materials, mentorship, after-school coaching) with Teacher Training & Capacity Building, digital learning support, and community-school strengthening to reduce dropout rates across rural settlements.',
-    image: '/src/assets/images/naef_education_support_1794320113228.jpg',
+    image: '/assets/images/naef_education_support_1794320113228.jpg',
     imageAlt: 'Young Nigerian students and teacher engaged with textbooks and learning guides',
     objectives: [
       'Provide scholarships, learning materials, mentorship, and after-school support for vulnerable students.',
@@ -113,7 +113,7 @@ export const PROGRAM_DETAILS: ProgramPillarDetail[] = [
     tagline: 'Advancing environmental sustainability, green energy transition, and climate-smart agriculture',
     description:
       'Expanded to unite waste management, school climate clubs, and tree planting with Green Energy Transition (solar, clean cooking, energy efficiency) and Sustainable Agriculture (climate-smart & organic farming for smallholder food security).',
-    image: '/src/assets/images/naef_climate_action_1794320114656.jpg',
+    image: '/assets/images/naef_climate_action_1794320114656.jpg',
     imageAlt: 'Volunteers and community members planting indigenous seedlings in Nigeria',
     objectives: [
       'Lead environmental clean-ups, recycling and waste reduction programs, and climate change clubs in schools.',

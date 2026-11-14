@@ -8,7 +8,7 @@ test('RECENT_ARTICLES contains exactly 3 restrained editorial articles as specif
     assert.ok(article.headline.length > 10);
     assert.ok(article.category.length > 3);
     assert.ok(article.date.includes('2026'));
-    assert.ok(article.image.startsWith('/src/assets/images/'));
+    assert.ok(article.image.startsWith('/assets/images/'));
     assert.ok(article.excerpt.length > 20);
     assert.ok(article.fullBody.length > 50);
   }

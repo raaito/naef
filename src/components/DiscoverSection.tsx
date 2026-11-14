@@ -30,7 +30,7 @@ export const DiscoverSection: React.FC<DiscoverSectionProps> = ({ onDiscoverMore
               {/* Documentary Photography Frame */}
               <div className="relative rounded-3xl overflow-hidden shadow-xl border border-[#263B2A]/15 bg-[#263B2A] aspect-[4/3] group">
                 <img
-                  src="/src/assets/images/naef_discover_community_1794319715730.jpg"
+                  src="/assets/images/naef_discover_community_1794319715730.jpg"
                   alt="NAEF civic engagement workshop with youth and women in community center"
                   className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-103"
                   loading="lazy"

@@ -64,7 +64,7 @@ export const ImpactSection: React.FC<ImpactSectionProps> = ({ onExploreImpactSto
       {/* Background Darkened Documentary Image with Atmospheric Scrim */}
       <div className="absolute inset-0 z-0">
         <img
-          src="/src/assets/images/naef_impact_bg_1794320845306.jpg"
+          src="/assets/images/naef_impact_bg_1794320845306.jpg"
           alt="NAEF Community members standing together at sunset"
           className="w-full h-full object-cover opacity-20 filter saturate-75"
           loading="lazy"

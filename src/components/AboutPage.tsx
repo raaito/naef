@@ -76,7 +76,7 @@ export const AboutPage: React.FC<AboutPageProps> = ({
           <div className="mt-12 sm:mt-16 rounded-3xl overflow-hidden shadow-xl border border-[#263B2A]/15 bg-[#263B2A] relative group">
             <div className="aspect-[16/9] sm:aspect-[21/9] w-full overflow-hidden">
               <img
-                src="/src/assets/images/naef_about_hero_1794323159180.jpg"
+                src="/assets/images/naef_about_hero_1794323159180.jpg"
                 alt="Nigerian community development leaders, women organizers, and elders gathered in a peaceful strategic circle"
                 className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-102"
               />

@@ -74,7 +74,7 @@ export const PILLARS_DEEP_DIVE: PillarDeepDive[] = [
       '12 regional youth peace committees active in early-warning peacebuilding',
       'Stronger inter-community relationships and improved social cohesion',
     ],
-    image: '/src/assets/images/naef_peace_naija_1794320113056.jpg',
+    image: '/assets/images/naef_peace_naija_1794320113056.jpg',
     imageAlt: 'Grassroots community peace dialogue and mediation circle in Nigeria',
     quote: {
       quoteText:
@@ -122,7 +122,7 @@ export const PILLARS_DEEP_DIVE: PillarDeepDive[] = [
       'Over 3,400+ women and girls reached with reproductive rights, dignity kits, and safe spaces',
       'Empowered women achieving economic independence across 28 community cooperatives',
     ],
-    image: '/src/assets/images/naef_women_center_1794320112976.jpg',
+    image: '/assets/images/naef_women_center_1794320112976.jpg',
     imageAlt: 'Women leaders gathered in empowerment center for cooperative business training',
     quote: {
       quoteText:
@@ -170,7 +170,7 @@ export const PILLARS_DEEP_DIVE: PillarDeepDive[] = [
       'Over 8,000 citizens reached through civic education and accountability forums',
       'More informed citizens and documented increases in youth civic and voter participation',
     ],
-    image: '/src/assets/images/naef_discover_community_1794319715730.jpg',
+    image: '/assets/images/naef_discover_community_1794319715730.jpg',
     imageAlt: 'NAEF civic engagement workshop with youth and women in community center',
     quote: {
       quoteText:
@@ -218,7 +218,7 @@ export const PILLARS_DEEP_DIVE: PillarDeepDive[] = [
       'Improved teaching quality and inclusive classroom practices across partner schools',
       'Reduced dropout rates and 84% literacy comprehension pass rate in remedial cohorts',
     ],
-    image: '/src/assets/images/naef_education_support_1794320113228.jpg',
+    image: '/assets/images/naef_education_support_1794320113228.jpg',
     imageAlt: 'Young students in bright learning sanctuary with textbooks',
     quote: {
       quoteText:
@@ -266,7 +266,7 @@ export const PILLARS_DEEP_DIVE: PillarDeepDive[] = [
       '120 rural women smallholder farmers adopting climate-smart and organic practices',
       'Increased clean energy adoption, reduced environmental degradation, and stronger food security',
     ],
-    image: '/src/assets/images/naef_climate_action_1794320114656.jpg',
+    image: '/assets/images/naef_climate_action_1794320114656.jpg',
     imageAlt: 'Volunteers and women farmers planting indigenous seedlings in fertile soil',
     quote: {
       quoteText:

@@ -103,7 +103,7 @@ export const Hero: React.FC<HeroProps> = ({ onWatchStory, onExploreJourney }) =>
             {/* Main Authentic Photographic Frame */}
             <div className="relative rounded-3xl overflow-hidden shadow-2xl border border-white/60 bg-[#263B2A] aspect-[4/3] lg:aspect-[5/6] group">
               <img
-                src="/src/assets/images/naef_hero_community_1794318993744.jpg"
+                src="/assets/images/naef_hero_community_1794318993744.jpg"
                 alt="NAEF community empowerment session with women and youth leaders in Nigeria"
                 className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-103"
                 loading="eager"

@@ -30,7 +30,7 @@ export const STORIES_OF_CHANGE: BeneficiaryStory[] = [
     fullStory:
       'Amina completed her secondary education with distinction under NAEF’s educational mentorship program. Rather than leaving her village, she established a free weekend reading sanctuary in her family compound. Today, over 60 young girls gather every Saturday to learn foundational literacy and STEM basics, supported with donated textbooks and study guides from NAEF.',
     outcome: 'Founded weekend literacy circle reaching 60+ out-of-school girls.',
-    portraitImage: '/src/assets/images/naef_story_portrait_1794321505938.jpg',
+    portraitImage: '/assets/images/naef_story_portrait_1794321505938.jpg',
     portraitAlt: 'Portrait of Amina B. holding study textbooks with a warm proud smile',
     consentVerified: true,
   },
@@ -48,7 +48,7 @@ export const STORIES_OF_CHANGE: BeneficiaryStory[] = [
     fullStory:
       'Mallam Danladi has lived in his ancestral community for nearly seven decades. Following mediation training with the Peace Naija team, he co-founded the Joint Elders & Youth Peace Council. By establishing a mutual water-sharing timetable and conflict resolution protocol, his village has celebrated two consecutive years with zero inter-communal clashes.',
     outcome: 'Co-brokered historic water and grazing accord across 8 neighboring settlements.',
-    portraitImage: '/src/assets/images/naef_story_elder_1794321506368.jpg',
+    portraitImage: '/assets/images/naef_story_elder_1794321506368.jpg',
     portraitAlt: 'Portrait of Mallam Danladi S. seated peacefully in traditional attire',
     consentVerified: true,
   },

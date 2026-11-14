@@ -66,7 +66,7 @@ export const WatchStoryModal: React.FC<WatchStoryModalProps> = ({ isOpen, onClos
         <div className="relative aspect-video w-full bg-black overflow-hidden group">
           {/* Background image preview with simulated cinematic grade */}
           <img
-            src="/src/assets/images/naef_hero_community_1794318993744.jpg"
+            src="/assets/images/naef_hero_community_1794318993744.jpg"
             alt="NAEF Community story scene"
             className="w-full h-full object-cover opacity-85 transition-transform duration-700 group-hover:scale-102"
           />

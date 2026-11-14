@@ -21,7 +21,7 @@ export const GetInvolvedSection: React.FC<GetInvolvedProps> = ({
       {/* Wide Photographic Composition */}
       <div className="absolute inset-0 z-0">
         <img
-          src="/src/assets/images/naef_get_involved_cta_1794321889690.jpg"
+          src="/assets/images/naef_hero_community_1794318993744.jpg"
           alt="NAEF community members and volunteers in circle of solidarity"
           className="w-full h-full object-cover opacity-25 filter saturate-75"
           loading="lazy"
